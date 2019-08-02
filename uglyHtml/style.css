@@ -1,0 +1,41 @@
+html{
+    background-color: darkorange;
+}
+header{
+    font-family: 'Sniper';
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+}
+div{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 18px; 
+    background-color: antiquewhite;
+}
+img{
+    margin: auto;
+    /*border-style: dotted;
+    border-color: goldenrod;*/
+    max-height: 300px;
+    
+}
+p{
+    font-size: 20px;
+    border: 10px;
+    border-style: solid;
+    border-color: darkorange;
+    background-color: peachpuff;
+}
+.class{
+    font-size: 20px;
+    border: 10px;
+    border-style: solid;
+    border-color: goldenrod;
+}
+h2{
+    border: 10px;
+    border-style: solid;
+    border-color: goldenrod;  
+}
